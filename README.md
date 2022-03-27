@@ -12,6 +12,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="cpp" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
+  <img align="center" alt="c" height="35" width="35" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcostanobreengenharia.com.br%2Fwp-content%2Fuploads%2F2017%2F05%2Flinguagem-C.png&f=1&nofb=1">
 </div>
   
   ##
